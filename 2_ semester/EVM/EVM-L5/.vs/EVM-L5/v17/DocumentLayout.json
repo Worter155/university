@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Worter\\source\\repos\\EVM-L5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06A2172A-5B7C-4B39-9356-10287808BA28}|EVM-L5\\EVM-L5.vcxproj|C:\\Users\\Worter\\source\\repos\\EVM-L5\\EVM-L5\\EVM-L5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06A2172A-5B7C-4B39-9356-10287808BA28}|EVM-L5\\EVM-L5.vcxproj|solutionrelative:EVM-L5\\EVM-L5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EVM-L5.cpp",
+              "DocumentMoniker": "C:\\Users\\Worter\\source\\repos\\EVM-L5\\EVM-L5\\EVM-L5.cpp",
+              "RelativeDocumentMoniker": "EVM-L5\\EVM-L5.cpp",
+              "ToolTip": "C:\\Users\\Worter\\source\\repos\\EVM-L5\\EVM-L5\\EVM-L5.cpp",
+              "RelativeToolTip": "EVM-L5\\EVM-L5.cpp",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAwwAcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T15:45:34.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

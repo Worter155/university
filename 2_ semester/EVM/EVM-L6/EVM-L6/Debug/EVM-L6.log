@@ -1,0 +1,3 @@
+﻿  EVM-L6.cpp
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(130,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  EVM-L6.vcxproj -> C:\Users\Worter\source\repos\EVM-L6\Debug\EVM-L6.exe

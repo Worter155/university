@@ -1,0 +1,105 @@
+﻿  EVM-L6.cpp
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(16,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(17,3): error C2065: fldz: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(17,9): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(18,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(18,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(18,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(18,7): error C2065: ebx: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(18,15): error C2065: ebx: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(20,2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "body"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(22,3): error C2059: синтаксическая ошибка: ;
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(22,4): error C3688: недопустимый литеральный суффикс "n"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""n"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(24,3): error C2065: fild: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(24,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "n"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(24,14): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(25,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fimul"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(25,3): error C2065: fimul: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(25,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c3"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(25,15): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(25,21): error C3688: недопустимый литеральный суффикс "n"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""n"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(26,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fisub"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(26,3): error C2065: fisub: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(26,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c2"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(26,15): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(26,21): error C3688: недопустимый литеральный суффикс "n"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""n"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(28,3): error C2059: синтаксическая ошибка: ;
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(28,4): error C2100: нельзя разыменовать операнд типа "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(28,11): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(30,3): error C2065: fild: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(30,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "n"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(30,14): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(31,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(31,3): error C2065: fld: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(31,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(31,13): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(32,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fisub"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(32,3): error C2065: fisub: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(32,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c3"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(32,15): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(33,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fyl2x"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(33,3): error C2065: fyl2x: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(33,13): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(33,30): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,3): error C2065: fld: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,7): error C2065: st: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,14): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,33): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st1"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,41): error C2065: st1: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(34,60): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(35,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "frndint"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(35,3): error C2065: frndint: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(35,14): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(35,42): error C2760: синтаксическая ошибка: непредвиденный элемент "st1". Ожидается "{"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(35,46): error C2059: синтаксическая ошибка: =
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(36,12): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(36,31): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(36,39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st1"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(36,39): error C2065: st1: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,3): error C2760: синтаксическая ошибка: непредвиденный элемент "fsub". Ожидается "{"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,8): error C2065: st: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,12): error C3861: st: идентификатор не найден
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,17): error C2059: синтаксическая ошибка: ;
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,20): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,41): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,24): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,50): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st1"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(37,50): error C2065: st1: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,3): error C2760: синтаксическая ошибка: непредвиденный элемент "f2xm1". Ожидается "{"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,8): error C2059: синтаксическая ошибка: ;
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,13): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,23): error C2059: синтаксическая ошибка: {
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,37): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,41): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,47): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st1"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(38,47): error C2065: st1: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,3): error C2760: синтаксическая ошибка: непредвиденный элемент "fiadd". Ожидается "{"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,11): error C2059: синтаксическая ошибка: ;
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,15): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,25): error C2059: синтаксическая ошибка: {
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,25): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,39): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,43): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(39,46): error C2065: st1: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(40,3): error C2760: синтаксическая ошибка: непредвиденный элемент "fscale". Ожидается "{"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(40,9): error C2059: синтаксическая ошибка: ;
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(40,14): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(40,27): error C2296: "^": недопустимо, поскольку тип левого операнда — "double"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(41,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fxch"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(41,3): error C2065: fxch: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(42,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(42,3): error C2065: fstp: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(42,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(42,8): error C2065: st: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(43,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fmul"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(43,3): error C2065: fmul: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(45,3): error C2059: синтаксическая ошибка: ;
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(45,7): warning C4552: "^": результат выражения не используется
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(47,3): error C2065: fild: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(47,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "n"
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(47,14): error C2065: st0: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L6\EVM-L6\EVM-L6.cpp(47,14): error C1003: число ошибок превышает 100; остановка компиляции

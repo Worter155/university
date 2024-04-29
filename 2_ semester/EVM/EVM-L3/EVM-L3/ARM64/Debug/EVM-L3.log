@@ -1,0 +1,104 @@
+﻿  EVM-L3.cpp
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(11,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,8): error C2065: esi: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,11): error C3192: синтаксическая ошибка: "^" не является префиксным оператором (возможно, имелось в виду "*"?)
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,13): error C2065: esi: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,18): error C2065: подготовим: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,39): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "регистр"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,39): error C2065: регистр: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,54): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "индекса"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,54): error C2065: индекса: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,69): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "в"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,69): error C2065: в: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,72): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "массиве"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(12,72): error C2065: массиве: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(13,8): error C2065: edi: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(13,13): error C2065: edi: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(13,18): error C2065: подготавливаем: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(13,47): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "сумму"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(13,47): error C2065: сумму: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,8): error C2065: ebx: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,18): error C2065: ebx: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "указывает"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,22): error C2065: указывает: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,41): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "на"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,41): error C2065: на: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,46): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "начало"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,46): error C2065: начало: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,59): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "массива"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(14,59): error C2065: массива: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,8): error C2065: ecx: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,19): error C2065: счётчик: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,34): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "цикла"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,34): error C2065: цикла: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "по"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,45): error C2065: по: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,50): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "всем"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,50): error C2065: всем: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,59): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "элементам"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(15,59): error C2065: элементам: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(16,6): error C2065: массива: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jcxz"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,4): error C2065: jcxz: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "exit_1"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,9): error C2065: exit_1: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,17): error C2065: завершить: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,36): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "если"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,36): error C2065: если: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "длина"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,45): error C2065: длина: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "массива"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,56): error C2065: массива: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(17,71): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(18,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "begin_loop"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,8): error C2065: eax: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,18): error C2760: синтаксическая ошибка: непредвиденный элемент "+". Ожидается ","
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,20): error C2065: esi: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,27): error C2059: синтаксическая ошибка: ]
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,30): error C2065: определяем: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,51): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "текущий"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,51): error C2065: текущий: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,66): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "элемент"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(19,66): error C2065: элемент: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,4): error C2065: mov: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,8): error C2065: edx: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,16): error C2065: подготовка: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "сравнения"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,37): error C2065: сравнения: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,56): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "с"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,56): error C2065: с: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(20,59): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "d"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cmp"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,4): error C2065: cmp: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,8): error C2065: eax: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,13): error C2065: edx: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,18): error C2065: сравнение: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,37): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,37): error C2065: a: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,39): error C2065: i: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,42): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "и"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,42): error C2065: и: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(21,45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "d"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,4): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jg"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,4): error C2065: jg: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end_loop"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,7): error C2065: end_loop: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,17): error C2065: если: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,26): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "больше"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,26): error C2065: больше: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,40): error C2065: то: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,45): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "завершаем"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,45): error C2065: завершаем: необъявленный идентификатор
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,64): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "цикл"
+C:\Users\Worter\source\repos\EVM-L3\EVM-L3\EVM-L3.cpp(22,64): error C1003: число ошибок превышает 100; остановка компиляции

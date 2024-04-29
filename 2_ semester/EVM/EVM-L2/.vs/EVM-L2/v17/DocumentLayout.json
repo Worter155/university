@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Worter\\source\\repos\\EVM-L2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8940BE-16A6-4FDD-8C83-D93B99D9696C}|EVM-L2\\EVM-L2.vcxproj|C:\\Users\\Worter\\source\\repos\\EVM-L2\\EVM-L2\\EVM-L2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF8940BE-16A6-4FDD-8C83-D93B99D9696C}|EVM-L2\\EVM-L2.vcxproj|solutionrelative:EVM-L2\\EVM-L2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EVM-L2.cpp",
+              "DocumentMoniker": "C:\\Users\\Worter\\source\\repos\\EVM-L2\\EVM-L2\\EVM-L2.cpp",
+              "RelativeDocumentMoniker": "EVM-L2\\EVM-L2.cpp",
+              "ToolTip": "C:\\Users\\Worter\\source\\repos\\EVM-L2\\EVM-L2\\EVM-L2.cpp",
+              "RelativeToolTip": "EVM-L2\\EVM-L2.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T16:02:10.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
