@@ -1,0 +1,15 @@
+/Users/andrew-moskalev/Projects/PL-04/PL-04/bin/Debug/net7.0/PL-04
+/Users/andrew-moskalev/Projects/PL-04/PL-04/bin/Debug/net7.0/PL-04.deps.json
+/Users/andrew-moskalev/Projects/PL-04/PL-04/bin/Debug/net7.0/PL-04.runtimeconfig.json
+/Users/andrew-moskalev/Projects/PL-04/PL-04/bin/Debug/net7.0/PL-04.dll
+/Users/andrew-moskalev/Projects/PL-04/PL-04/bin/Debug/net7.0/PL-04.pdb
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.csproj.AssemblyReference.cache
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.AssemblyInfoInputs.cache
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.AssemblyInfo.cs
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.csproj.CoreCompileInputs.cache
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.dll
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/refint/PL-04.dll
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.pdb
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/PL-04.genruntimeconfig.cache
+/Users/andrew-moskalev/Projects/PL-04/PL-04/obj/Debug/net7.0/ref/PL-04.dll

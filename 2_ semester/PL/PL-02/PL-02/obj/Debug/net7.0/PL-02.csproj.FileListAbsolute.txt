@@ -1,0 +1,15 @@
+/Users/andrew-moskalev/Projects/PL-02/PL-02/bin/Debug/net7.0/PL-02
+/Users/andrew-moskalev/Projects/PL-02/PL-02/bin/Debug/net7.0/PL-02.deps.json
+/Users/andrew-moskalev/Projects/PL-02/PL-02/bin/Debug/net7.0/PL-02.runtimeconfig.json
+/Users/andrew-moskalev/Projects/PL-02/PL-02/bin/Debug/net7.0/PL-02.dll
+/Users/andrew-moskalev/Projects/PL-02/PL-02/bin/Debug/net7.0/PL-02.pdb
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.csproj.AssemblyReference.cache
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.AssemblyInfoInputs.cache
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.AssemblyInfo.cs
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.csproj.CoreCompileInputs.cache
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.dll
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/refint/PL-02.dll
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.pdb
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/PL-02.genruntimeconfig.cache
+/Users/andrew-moskalev/Projects/PL-02/PL-02/obj/Debug/net7.0/ref/PL-02.dll

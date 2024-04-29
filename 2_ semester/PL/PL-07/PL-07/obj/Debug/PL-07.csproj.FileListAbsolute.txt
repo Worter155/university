@@ -1,0 +1,12 @@
+C:\Users\Worter\source\repos\PL-07\PL-07\bin\Debug\PL-07.exe.config
+C:\Users\Worter\source\repos\PL-07\PL-07\bin\Debug\PL-07.exe
+C:\Users\Worter\source\repos\PL-07\PL-07\bin\Debug\PL-07.pdb
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL-07.csproj.AssemblyReference.cache
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL_07.Properties.Resources.resources
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL-07.csproj.GenerateResource.cache
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL-07.csproj.CoreCompileInputs.cache
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL-07.exe
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL-07.pdb
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL_07.StartForm.resources
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL_07.MainForm.resources
+C:\Users\Worter\source\repos\PL-07\PL-07\obj\Debug\PL_07.ProgramForm.resources

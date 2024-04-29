@@ -1,0 +1,15 @@
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/bin/Debug/net7.0/OP-L3
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/bin/Debug/net7.0/OP-L3.deps.json
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/bin/Debug/net7.0/OP-L3.runtimeconfig.json
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/bin/Debug/net7.0/OP-L3.dll
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/bin/Debug/net7.0/OP-L3.pdb
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.csproj.AssemblyReference.cache
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.AssemblyInfoInputs.cache
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.AssemblyInfo.cs
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.csproj.CoreCompileInputs.cache
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.dll
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/refint/OP-L3.dll
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.pdb
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/OP-L3.genruntimeconfig.cache
+/Users/andrew-moskalev/Projects/OP-L3/OP-L3/obj/Debug/net7.0/ref/OP-L3.dll

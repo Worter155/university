@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{452E7F77-1282-49BF-8955-A685A036C89D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="First/Ch1.cs">
+    <Files>
+      <File FileName="First/L1.cs" />
+      <File FileName="First/Ch1.cs" Line="22" Column="2" />
+      <File FileName="First/Ch2.cs" Line="1" Column="1" />
+      <File FileName="First/Ch3.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OP-L1" expanded="True">
+            <Node name="OP-L1" expanded="True">
+              <Node name="Ch1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OP-L1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

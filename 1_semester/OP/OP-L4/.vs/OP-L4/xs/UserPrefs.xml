@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F74329F6-B863-4437-9A9A-946B632DAB4D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OP-L4/Program.cs">
+    <Files>
+      <File FileName="OP-L4/Program.cs" Line="1" Column="1" />
+      <File FileName="OP-L4/Polynomial.cs" Line="1" Column="1" />
+      <File FileName="OP-L4/Counter.cs" Line="7" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OP-L4" expanded="True">
+            <Node name="OP-L4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OP-L4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

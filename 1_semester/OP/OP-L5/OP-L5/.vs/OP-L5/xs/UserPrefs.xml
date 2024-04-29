@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{754A0831-C646-496A-B10A-60C8D732FDC6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OP-L5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fraction.cs">
+    <Files>
+      <File FileName="Program.cs" Line="36" Column="43" />
+      <File FileName="Fraction.cs" Line="122" Column="10" />
+      <File FileName="FractionSt.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OP-L5" expanded="True">
+            <Node name="OP-L5" expanded="True">
+              <Node name="Fraction.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

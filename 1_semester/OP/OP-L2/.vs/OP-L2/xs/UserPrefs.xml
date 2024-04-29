@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2B490D23-9053-412F-B475-51A4347ADBAA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OP-L2/Program.cs">
+    <Files>
+      <File FileName="OP-L2/Program.cs" Line="44" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OP-L2" expanded="True">
+            <Node name="OP-L2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.OP-L2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

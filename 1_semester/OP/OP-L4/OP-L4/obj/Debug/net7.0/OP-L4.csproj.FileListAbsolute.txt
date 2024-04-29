@@ -1,0 +1,15 @@
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.csproj.AssemblyReference.cache
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.AssemblyInfoInputs.cache
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.AssemblyInfo.cs
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.csproj.CoreCompileInputs.cache
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/bin/Debug/net7.0/OP-L4
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/bin/Debug/net7.0/OP-L4.deps.json
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/bin/Debug/net7.0/OP-L4.runtimeconfig.json
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/bin/Debug/net7.0/OP-L4.dll
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/bin/Debug/net7.0/OP-L4.pdb
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.dll
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/refint/OP-L4.dll
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.pdb
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/OP-L4.genruntimeconfig.cache
+/Users/andrew-moskalev/Projects/OP-L4/OP-L4/obj/Debug/net7.0/ref/OP-L4.dll

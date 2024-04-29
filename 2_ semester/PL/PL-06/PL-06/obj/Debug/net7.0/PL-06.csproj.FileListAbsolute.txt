@@ -1,0 +1,15 @@
+/Users/andrew-moskalev/Projects/PL-06/PL-06/bin/Debug/net7.0/PL-06
+/Users/andrew-moskalev/Projects/PL-06/PL-06/bin/Debug/net7.0/PL-06.deps.json
+/Users/andrew-moskalev/Projects/PL-06/PL-06/bin/Debug/net7.0/PL-06.runtimeconfig.json
+/Users/andrew-moskalev/Projects/PL-06/PL-06/bin/Debug/net7.0/PL-06.dll
+/Users/andrew-moskalev/Projects/PL-06/PL-06/bin/Debug/net7.0/PL-06.pdb
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.csproj.AssemblyReference.cache
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.AssemblyInfoInputs.cache
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.AssemblyInfo.cs
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.csproj.CoreCompileInputs.cache
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.dll
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/refint/PL-06.dll
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.pdb
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/PL-06.genruntimeconfig.cache
+/Users/andrew-moskalev/Projects/PL-06/PL-06/obj/Debug/net7.0/ref/PL-06.dll

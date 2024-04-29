@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{17CA9B83-F40D-4E5E-A5D6-882CF4BE0B6B}|Default">
+  <MonoDevelop.Ide.ItemProperties.PL-02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PL-02/LinkedListVector.cs">
+    <Files>
+      <File FileName="PL-02/Program.cs" Line="153" Column="44" />
+      <File FileName="PL-02/LinkedListVector.cs" Line="143" Column="45" />
+      <File FileName="PL-02/ArrayVector.cs" Line="1" Column="1" />
+      <File FileName="PL-02/Vectors.cs" Line="6" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PL-02" expanded="True">
+            <Node name="PL-02" expanded="True">
+              <Node name="LinkedListVector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/OP-L1
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/OP-L1.deps.json
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/OP-L1.runtimeconfig.json
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/OP-L1.dll
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/OP-L1.pdb
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.csproj.AssemblyReference.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.AssemblyInfoInputs.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.AssemblyInfo.cs
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.csproj.CoreCompileInputs.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.dll
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/refint/OP-L1.dll
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.pdb
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/OP-L1.genruntimeconfig.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/ref/OP-L1.dll

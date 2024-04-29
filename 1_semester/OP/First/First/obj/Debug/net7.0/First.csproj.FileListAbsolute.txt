@@ -1,0 +1,15 @@
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/First
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/First.deps.json
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/First.runtimeconfig.json
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/First.dll
+/Users/andrew-moskalev/Projects/First/First/bin/Debug/net7.0/First.pdb
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.csproj.AssemblyReference.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.AssemblyInfoInputs.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.AssemblyInfo.cs
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.csproj.CoreCompileInputs.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.dll
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/refint/First.dll
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.pdb
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/First.genruntimeconfig.cache
+/Users/andrew-moskalev/Projects/First/First/obj/Debug/net7.0/ref/First.dll

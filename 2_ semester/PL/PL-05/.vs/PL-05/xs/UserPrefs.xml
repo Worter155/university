@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C05711F4-5135-4E18-864D-D471CFFB65E0}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PL-05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PL-05/Program.cs">
+    <Files>
+      <File FileName="PL-05/Program.cs" Line="990" Column="69" />
+      <File FileName="PL-05/Vectors.cs" Line="5" Column="9" />
+      <File FileName="PL-05/ArrayVector.cs" Line="101" Column="23" />
+      <File FileName="PL-05/IVectorable.cs" Line="7" Column="17" />
+      <File FileName="PL-05/Comparer.cs" Line="12" Column="2" />
+      <File FileName="PL-05/LinkedListVector.cs" Line="250" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PL-05" expanded="True">
+            <Node name="PL-05" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
